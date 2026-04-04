@@ -28,3 +28,6 @@ Output: 10101010
 
 ## Author
 Ziyaad Ul Hasan Ansari
+
+## Simulation Output
+![Waveform](screenshots/waveform.png)
