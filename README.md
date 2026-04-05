@@ -1,7 +1,7 @@
 # UART Communication System using Verilog
 
 ## Overview
-This project implements a complete UART communication system using Verilog, including transmitter, receiver, and baud rate generator. The design was simulated and verified using Xilinx Vivado.
+This project implements a complete UART communication system in Verilog, including a transmitter, a receiver, and a baud-rate generator. The design was simulated and verified using Xilinx Vivado.
 
 ## Features
 - UART Transmitter (TX)
@@ -27,7 +27,7 @@ Output: 10101010
 - screenshots/: Simulation results
 
 ## Author
-Ziyaad Ul Hasan Ansari
+MD Ziyaad Ul Hasan Ansari
 
 ## Simulation Output
 ![Waveform](screenshots/waveform.png)
